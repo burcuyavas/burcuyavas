@@ -1,4 +1,4 @@
-### Hi there, I'm Burcu 
+### Hi there, I am Burcu 
 
 ## I am a Mathematical Engineering student
 
