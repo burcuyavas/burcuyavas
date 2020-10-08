@@ -36,5 +36,6 @@
 
 
 [website]: https://medium.com/@burcuyavas00
+[linkedin]: https://linkedin.com/in/yavasburcu
 
 
