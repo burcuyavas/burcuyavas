@@ -1,11 +1,11 @@
-### Hi there, I'm Burcu 👋
+### Hi there, I'm Burcu 
 
-## I'm a Mathematical Engineering student
+## I am a Mathematical Engineering student
 
-- 🌱 I’m currently learning data science
+- 🌱 I am currently learning data science
 - ⚡ Fun fact: I love to play chess
 
-### Connect with me:
+### Contact Info:
 
 [<img align="left" alt="yavasburcu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -36,5 +36,5 @@
 
 
 [website]: https://medium.com/@burcuyavas00
-[linkedin]: https://linkedin.com/in/yavasburcu
+
 
