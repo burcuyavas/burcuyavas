@@ -36,13 +36,6 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://medium.com/@burcuyavas00
 [linkedin]: https://linkedin.com/in/yavasburcu
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
