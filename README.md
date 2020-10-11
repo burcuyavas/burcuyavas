@@ -9,6 +9,17 @@
 [<img align="left" alt="yavasburcu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+### My knowledge
+- C
+- C# 
+- Java 
+- Android Studio 
+- Python 
+
+
+### Experience
+- R&D
+- Product Development
 
 ### Languages and Tools:
 
