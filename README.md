@@ -16,6 +16,7 @@
 - Java 
 - Android Studio 
 - Python 
+- Data Visualization
 
 
 ### Experience
