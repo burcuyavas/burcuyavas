@@ -21,6 +21,7 @@
 ### Experience
 - R&D
 - Product Development
+- Business Development
 
 ### Languages and Tools:
 
