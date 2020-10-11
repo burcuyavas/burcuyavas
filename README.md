@@ -10,7 +10,7 @@
 
 <br />
 
-### My knowledge
+### My Knowledge
 - C
 - C# 
 - Java 
