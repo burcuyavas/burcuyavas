@@ -2,8 +2,7 @@
 
 ## I'm a Mathematical Engineering student
 
-- 🌱 I’m currently learning data science
-- ⚡ Fun fact: I love to play chess
+- ⚡ I’m currently learning data science
 
 ### Contact Info:
 
