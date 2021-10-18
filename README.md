@@ -2,7 +2,7 @@
 
 ## I'm a Mathematical Engineering student at Yıldız Technical University
 
-- ⚡ I’m currently learning data science
+- ⚡ Learning data science
 
 ### Contact Info:
 
@@ -11,15 +11,17 @@
 <br />
 
 ### My Knowledge
+- Python 
+- SQL
 - C
 - C# 
 - Java 
 - Android Studio 
-- Python 
 - Data Visualization & Analysis
 
 
 ### Experience
+- Data Science
 - R&D
 - Product Development
 - Business Development
