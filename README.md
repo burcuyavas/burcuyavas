@@ -1,8 +1,6 @@
 ### Hi there, I'm Burcu 
 
-## I'm a Mathematical Engineering student at Yıldız Technical University
-
-- ⚡ Learning data science
+## I am a Mathematical Engineer and Data Scientist
 
 ### Contact Info:
 
